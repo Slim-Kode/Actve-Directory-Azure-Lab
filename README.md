@@ -1,9 +1,6 @@
-# Actve-Directory-Azure-Lab
+# Active-Directory-Azure-Lab
 Windows Server Active Directory domain built and configured on Microsoft Azure
 
-# packet-tracer-projects
-
-A collection of my projects around networking and IT infrastructure — covering everything from small home labs to corporate-style network and server setups.
 
 ---
 
