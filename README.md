@@ -28,7 +28,7 @@ Built a Windows Server domain controller on Microsoft Azure to practice real-wor
 - Basic cloud infrastructure management using Azure
 
 ### Screenshots
-*<img width="1366" height="742" alt="Screenshot_2026-08-13_00-08-04" src="https://github.com/user-attachments/assets/4062b3b3-2b81-4d75-9f2b-48949c14eb0d" />
+<img width="1366" height="742" alt="Screenshot_2026-08-13_00-08-04" src="https://github.com/user-attachments/assets/4062b3b3-2b81-4d75-9f2b-48949c14eb0d" />
 
 <img width="1366" height="742" alt="edited_check" src="https://github.com/user-attachments/assets/8ea6f377-665a-4809-859a-05352dbbea51" />
 
@@ -37,7 +37,6 @@ Built a Windows Server domain controller on Microsoft Azure to practice real-wor
 <img width="1366" height="697" alt="Screenshot_2026-08-13_00-52-20" src="https://github.com/user-attachments/assets/21d1955a-74d6-4dfa-ab7e-7df8972a2521" />
 
 <img width="1366" height="699" alt="Screenshot_2026-08-13_00-53-56" src="https://github.com/user-attachments/assets/f41e3a84-fed7-4b32-8468-135092ff312e" />
-*
 
 ---
 
